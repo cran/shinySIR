@@ -2,8 +2,8 @@ Package: shinySIR
 Type: Package
 Title: Interactive Plotting for Mathematical Models of Infectious
         Disease Spread
-Version: 0.1.0
-Date: 2020-01-04
+Version: 0.1.1
+Date: 2020-02-03
 Authors@R: c(person("Sinead E.", "Morris", role = c("aut", "cre"),
 		   email = "sinead.morris@columbia.edu",
 		   comment = c(ORCID = "0000-0001-8626-1698")),
@@ -19,8 +19,8 @@ Depends: dplyr (>= 0.8.0.1), tidyr (>= 0.8.3), ggplot2 (>= 3.1.1),
 Suggests: knitr (>= 1.22), rmarkdown (>= 1.12), testthat (>= 2.2.0)
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2020-01-14 20:45:02 UTC; sineadmorris
+Packaged: 2020-02-03 21:30:41 UTC; sineadmorris
 Author: Sinead E. Morris [aut, cre] (<https://orcid.org/0000-0001-8626-1698>),
   Ottar N. Bjornstad [ctb]
 Repository: CRAN
-Date/Publication: 2020-01-20 09:30:05 UTC
+Date/Publication: 2020-02-03 21:50:02 UTC

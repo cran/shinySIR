@@ -3,6 +3,10 @@ knitr::opts_chunk$set(
   collapse = TRUE, echo = TRUE, fig.height = 6, fig.width = 8, message = FALSE, warning = FALSE
 )
 
+## ----install0, eval = FALSE---------------------------------------------------
+#  install.packages("shinySIR")
+#  
+
 ## ----install, eval = FALSE----------------------------------------------------
 #  install.packages("devtools")
 #  library("devtools")
